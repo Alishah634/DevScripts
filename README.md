@@ -1,4 +1,4 @@
-# General Script Repository
+# DevScripts Repository Description
 
 ## Goals
 This repository aims to provide a collection of versatile scripts to help automate tasks and streamline workflows across various domains. Whether you are setting up a development environment, automating repetitive tasks, or exploring new tools and technologies, these scripts are designed to be a helpful starting point.
