@@ -22,8 +22,11 @@ To use any of the scripts, navigate to the respective folder and follow the inst
 - PackageSetup: Set up a comprehensive Python environment by installing packages from a requirements file.
 
 ## Rules for Contribution
-We welcome contributions to this repository! If you have a script that you believe would be a valuable addition, or if you have improvements to existing scripts, please feel free to submit a pull request. Additionally, if you have any questions or need help, use the discussion section to reach out.
+- We welcome contributions to this repository! If you have a script that you believe would be a valuable addition, or if you have improvements to existing scripts, please feel free to submit a pull request. 
+- Additionally, if you have any questions or need help, use the discussion section to reach out. 
+- Scripts are prefered to be in ``python`` or ``bash``. However if a script is written in another langauge then after review it may be added. The reason for using ``python`` and ``bash`` is because those are easily accessible for all and require little to no setup before hand.
 
+   
 ## Sharing Your Creations
 If you create something using these scripts, we would love to hear about it! Please share your projects and how these scripts have helped you by opening a discussion or submitting a showcase in the repository.
 
