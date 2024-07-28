@@ -75,6 +75,9 @@ The `.txt` files provided are examples. The `requirements_example.txt` is design
 ## Contributions
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
+# Issues to note:
+- If a package has a dependency that has depreciated then that package will not install properly -> Solution: Functionality to detect and automatically fix this, or at least print out which packages have not installed.
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
