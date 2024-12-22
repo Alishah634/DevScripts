@@ -20,6 +20,7 @@ To use any of the scripts, navigate to the respective folder and follow the inst
 
 ## Scripts that Exist
 - PackageSetup: Set up a comprehensive Python environment by installing packages from a requirements file.
+- template_file_structure.py: Is a script that sets up folders/directories for the user. Comes in handy when working on large projects.
 
 ## Rules for Contribution
 - We welcome contributions to this repository! If you have a script that you believe would be a valuable addition, or if you have improvements to existing scripts, please feel free to submit a pull request. 
