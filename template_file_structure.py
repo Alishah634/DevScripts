@@ -48,7 +48,8 @@ def create_project_structure(base_dir: str):
 if __name__ == "__main__":
     # Set the base directory for the project
     project_folder_name = None # Replace with the desired project folder name
-    base_dir = os.path.abspath(f"{project_folder_name}")
-
+    assert project_folder_name != None, f"The project_folder_name is the root directory where the project folders reside, it should NOT be none!!!"
+    base_dir = os.path.abspath(project_folder_name)
+    
     # Create the project structure
     create_project_structure(base_dir)
